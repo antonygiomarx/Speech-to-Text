@@ -95,6 +95,7 @@
 //   .map((result: any) => result.alternatives[0].transcript)
 //   .join('\n');
 // console.log(`Transcription: `, transcription);
+
 //$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\antony.hernandez\Documents\GitHub\Speech-to-Text\379007511876-fj9dbhuem3lct4bm9gkfa5kh920am4vl.apps.googleusercontent.com_secreto_cliente.json"
 
 async function syncRecognize() {
